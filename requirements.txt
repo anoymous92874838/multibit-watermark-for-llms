@@ -1,0 +1,8 @@
+gradio
+nltk
+scipy
+torch
+transformers
+tokenizers
+accelerate
+datasets

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="147.47.120.113" id="5c7d105e-9910-4d3c-b1b1-d176514aa1e8" keyPath="$USER_HOME$/.ssh/id_rsa" port="2022" customName="ws12" nameFormat="CUSTOM" username="user" useOpenSSHConfig="true">
+        <option name="customName" value="ws12" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mipal-tmp" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc; " remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="dev">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workspace/lm-watermarking" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/watermark_reliability_release/experiments/titan" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="mipal-tmp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="./" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ws12">
+        <serverdata>
+          <mappings>
+            <mapping deploy="./" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

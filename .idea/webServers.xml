@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="faa13129-4d85-4bd7-a551-d605fdd1fb24" name="ws12">
+        <fileTransfer rootFolder="/home/user/kiyoon/lm-watermarking" accessType="SFTP" host="147.47.120.113" port="2022" sshConfigId="5c7d105e-9910-4d3c-b1b1-d176514aa1e8" sshConfig="ws12" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b4363a62-9b58-436a-af4c-608af1fe955c" name="mipal-tmp">
+        <fileTransfer rootFolder="/home/mipal/kiyoon/mb-lm-watermarking" accessType="SFTP" host="210.125.65.149" port="20022" sshConfigId="7b7eafc6-1806-45e8-86d6-2a5e8c8cb2ee" sshConfig="mipal@210.125.65.149:20022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
